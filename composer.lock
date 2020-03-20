@@ -71,16 +71,16 @@
         },
         {
             "name": "backpack/crud",
-            "version": "4.0.55",
+            "version": "4.0.56",
             "source": {
                 "type": "git",
                 "url": "https://github.com/Laravel-Backpack/CRUD.git",
-                "reference": "ba3c0d3657c28b2d84abf6627ab7cc4583550b60"
+                "reference": "f928e06478fcb803c3b078721c6f1585c8a3ad66"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Laravel-Backpack/CRUD/zipball/ba3c0d3657c28b2d84abf6627ab7cc4583550b60",
-                "reference": "ba3c0d3657c28b2d84abf6627ab7cc4583550b60",
+                "url": "https://api.github.com/repos/Laravel-Backpack/CRUD/zipball/f928e06478fcb803c3b078721c6f1585c8a3ad66",
+                "reference": "f928e06478fcb803c3b078721c6f1585c8a3ad66",
                 "shasum": ""
             },
             "require": {
@@ -154,7 +154,7 @@
                 "read",
                 "update"
             ],
-            "time": "2020-03-19T06:58:41+00:00"
+            "time": "2020-03-19T08:07:30+00:00"
         },
         {
             "name": "backpack/generators",
@@ -2058,16 +2058,16 @@
         },
         {
             "name": "laravel/framework",
-            "version": "v7.2.0",
+            "version": "v7.2.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/laravel/framework.git",
-                "reference": "77110b6434e65b10b655ab92e645e830b1a79caf"
+                "reference": "261e74cf8c6f760fd302fb08b2b51feb066f8987"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/laravel/framework/zipball/77110b6434e65b10b655ab92e645e830b1a79caf",
-                "reference": "77110b6434e65b10b655ab92e645e830b1a79caf",
+                "url": "https://api.github.com/repos/laravel/framework/zipball/261e74cf8c6f760fd302fb08b2b51feb066f8987",
+                "reference": "261e74cf8c6f760fd302fb08b2b51feb066f8987",
                 "shasum": ""
             },
             "require": {
@@ -2205,7 +2205,7 @@
                 "framework",
                 "laravel"
             ],
-            "time": "2020-03-17T14:08:55+00:00"
+            "time": "2020-03-19T14:31:45+00:00"
         },
         {
             "name": "laravel/helpers",
